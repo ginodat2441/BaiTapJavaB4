@@ -1,0 +1,7 @@
+BAI 1 - LOP Nguoi, Nhanvien (JAVA)
+
+Bien dich:  javac *.java
+Chay:       java Main
+
+Cong thuc: tienluong = lcb * hsl + phucap
+           lcb = 1.5 (trieu), phucap = 0.2 * snct (trieu)
